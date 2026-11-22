@@ -1,0 +1,12 @@
+{
+  "name": "vaultlight",
+  "private": true,
+  "type": "module",
+  "description": "VAULTLIGHT — a stealth heist game for make.fun's best-heist-game bounty.",
+  "license": "MIT",
+  "scripts": {
+    "check:map": "node tools/check-map.mjs",
+    "shots": "node tools/shoot.mjs",
+    "build": "node main.ts"
+  }
+}

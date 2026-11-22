@@ -1,0 +1,4 @@
+out/
+scratch-shots/
+node_modules/
+*.log
